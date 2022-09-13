@@ -1,0 +1,165 @@
+{
+    "questions": [{
+            "questionText": "1. As of early 20 which country was at the top in the steel production in the world?",
+            "options": [{
+                    "text": "China",
+                    "correct": true
+                },
+                {
+                    "text": "Japan"
+                },
+                {
+                    "text": "India"
+                },
+                {
+                    "text": "England"
+                }
+            ],
+            "explanation": "China is biggest still production accounted for 57 percent."
+        },
+        {
+            "questionText": "2. Sinovac given for covid -19 is a",
+            "options": [{
+                    "text": "protein sub unit"
+                },
+                {
+                    "text": "Non-replacing viral Vector"
+                },
+                {
+                    "text": "whole virus Vaccine"
+                },
+                {
+                    "text": "inactivated virus technology",
+                    "correct": true
+                }
+            ],
+            "explanation": "It utilised unreactive coronavirus particle thata have been killed to stimulate our bodies to produce antibodies as immune response"
+        },
+        {
+            "questionText": "3. By which amendement of the constitiuon 'Delhi has been made national Capital region ?",
+            "options": [{
+                    "text": "75th Amendement"
+                },
+                {
+                    "text": "69th Amendement.",
+                    "correct": true
+                },
+                {
+                    "text": "70th amendement."
+                },
+                {
+                    "text": "77th Amendement"
+                }
+            ],
+            "explanation": "The 69th Amendments delhi has become national capital region"
+        },
+        {
+            "questionText": "4. When the Enviroment Protection Act for the protection and preservation of Enviorment has been passed?",
+            "options": [{
+                    "text": "1971"
+                },
+                {
+                    "text": "1986",
+                    "correct": true
+                },
+                {
+                    "text": "1981"
+                },
+                {
+                    "text": "1985?"
+                }
+            ],
+            "explanation": " On the 23rd may 1986 GOI passed a Enviroment Protection Act 1986."
+        },
+        {
+            "questionText": "5. Which of the following Wildlife sancturies of Up was established in 1975? ",
+            "options": [{
+                    "text": "Katarniaghat 1975",
+                    "correct": true
+                },
+                {
+                    "text": "Kishanpur"
+                },
+                {
+                    "text": "Raipur"
+                },
+                {
+                    "text": "Chambal"
+                }
+            ],
+            "explanation": "it was katarnia ghat 1975"
+        },
+        {
+            "questionText": "6. The concept of basic Structure of the constituion proposed by The Supremen Court in which case?",
+            "options": [{
+                    "text": "Yusuf vs State of Bombay"
+                },
+                {
+                    "text": "Golaknath Vs State of Punjab"
+                },
+                {
+                    "text": "Chitralekha VS State of MySore"
+                },
+                {
+                    "text": "Keshvanand Bharti VS State of Kerla 1973",
+                    "correct": true
+                }
+            ],
+            "explanation": "It was keshvanad Bharti case that brought doctrine of Basic Structure."
+        },
+        {
+            "questionText": "7. The Audit reports of comtroller and auditor general of India is examined by?",
+            "options": [{
+                    "text": "Public undertaking Commitee"
+                },
+                {
+                    "text": "Public Account Commitee",
+                    "correct": true
+                },
+                {
+                    "text": "The Estiamte Commitee"
+                },
+                {
+                    "text": "Non of above"
+                }
+            ],
+            "explanation": "the export keyword allows for the information to be transmitted between files"
+        },
+        {
+            "questionText": "8. Which of the following rock edict of Ashoka speak of Relgious Synthesis?",
+            "options": [{
+                    "text": " RockEdictXII",
+                    "correct": true
+                },
+                {
+                    "text": " RockEdictXI"
+                },
+                {
+                    "text": " RockEdictXIII"
+                },
+                {
+                    "text": "RockEdictII"
+                }
+            ],
+            "explanation": "Ashoka Speak religious synthesis in RockEdictXII"
+        },
+        {
+            "questionText": "9. What is a name of test for undergraduate admission in centeral university single window admission for 2022-23?",
+            "options": [{
+                    "text": "CUCET",
+                    "correct": true
+                },
+                {
+                    "text": "CUET"
+                },
+                {
+                    "text": "UAET"
+                },
+                {
+                    "text": "CUAT"
+                }
+            ],
+            "explanation": "Centeral University Common entrace test"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+<div class="container bg-info py-5">
+    <h1 class="display-5 fw-bold">Welcome to N tech Quiz App</h1>
+    <p class="col-md-8 fs-4">This quiz will contains total 9 questions. Each Question holds 10 Points</p>
+    <h4>Rules:</h4>
+    <ol>
+        <li>Each Correct Option Gives you 10  points.</li>
+<li>Incorrect option give you -10 marks.</li>
+<li>You will have 60 sec to answer each question.</li>
+<li>Refreshing the page will reset the Quiz.</li>
+<li>You must use a functioning webcam and microphone.</li>
+<li> No cell phones or other secondary devices in the room or test area.</li>
+<li>Your desk/table must be clear or any materials except your test-taking device.</li>
+<li>No one else can be in the room with you.</li>
+<li>The testing room must be well-lit and you must be clearly visible.</li>
+<li>No dual screens/monitors.</li>
+<li>Do not leave the camera.</li>
+<li>No use of additional applications or internet.</li>
+    </ol>
+    <h1 style="font-family: cursive;text-align:center">All the best!!</h1>
+    <div class="name col-md-4 my-3">
+        <label for="">Enter your name:</label>
+        <input #name type="text" class="form-control">
+    </div>
+    <button class="btn btn-primary btn-lg" routerLink="/question" (click)="startQuiz()">Start the Quiz!!</button>
+</div>
